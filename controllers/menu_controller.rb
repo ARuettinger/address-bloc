@@ -37,7 +37,7 @@ class MenuController
 			read_csv
 			main_menu
     when 5
-      sytem "clear"
+      system "clear"
       entry_n_submenu
       main_menu
 		when 6
